@@ -91,6 +91,10 @@ export const MEMBERS: readonly Member[] = [
     memberOf: [ROLE_IDS.RUST_SDK],
   },
   {
+    github: 'benbrandt',
+    memberOf: [ROLE_IDS.CLIENT_IMPLEMENTOR_IG],
+  },
+  {
     github: 'bhosmer-ant',
     discord: '1272295077074567242',
     memberOf: [
@@ -397,9 +401,17 @@ export const MEMBERS: readonly Member[] = [
     memberOf: [ROLE_IDS.GO_SDK],
   },
   {
+    github: 'formulahendry',
+    memberOf: [ROLE_IDS.CLIENT_IMPLEMENTOR_IG],
+  },
+  {
     github: 'gocamille',
     discord: '259396562625495040',
     memberOf: [ROLE_IDS.RUST_SDK],
+  },
+  {
+    github: 'gpeal',
+    memberOf: [ROLE_IDS.CLIENT_IMPLEMENTOR_IG],
   },
   {
     github: 'guglielmo-san',
@@ -724,6 +736,10 @@ export const MEMBERS: readonly Member[] = [
     discord: '1427569183427919906',
     // Emeritus maintainer of the Swift SDK
     memberOf: [],
+  },
+  {
+    github: 'msfeldstein',
+    memberOf: [ROLE_IDS.CLIENT_IMPLEMENTOR_IG],
   },
   {
     github: 'nahapetyan-serob',
@@ -1079,6 +1095,10 @@ export const MEMBERS: readonly Member[] = [
     github: 'tsarlandie-oai',
     discord: '1516121882297106487',
     memberOf: [ROLE_IDS.RUST_SDK, ROLE_IDS.TASKS_EVENTS_WG, ROLE_IDS.FILE_UPLOADS_WG],
+  },
+  {
+    github: 'TylerLeonhardt',
+    memberOf: [ROLE_IDS.CLIENT_IMPLEMENTOR_IG],
   },
   {
     github: 'tzolov',
