@@ -115,6 +115,10 @@ export const MEMBERS: readonly Member[] = [
     memberOf: [ROLE_IDS.MAINTAINERS, ROLE_IDS.INSPECTOR_MAINTAINERS, ROLE_IDS.REGISTRY_MAINTAINERS],
   },
   {
+    github: 'bolinfest',
+    memberOf: [ROLE_IDS.RUST_SDK],
+  },
+  {
     github: 'caitiem20',
     email: 'caitie.mccaffrey@microsoft.com',
     discord: '1425586366288494722',
@@ -132,6 +136,10 @@ export const MEMBERS: readonly Member[] = [
     github: 'canarik',
     discord: '409814689095352320',
     memberOf: [ROLE_IDS.SWIFT_SDK, ROLE_IDS.MAINTAINERS],
+  },
+  {
+    github: 'carlpeaslee',
+    memberOf: [ROLE_IDS.SWIFT_SDK],
   },
   {
     github: 'caseychow-oai',
@@ -497,6 +505,10 @@ export const MEMBERS: readonly Member[] = [
     memberOf: [ROLE_IDS.INTERCEPTORS_WG, ROLE_IDS.WG_IG_FACILITATORS],
   },
   {
+    github: 'jerome3o',
+    memberOf: [ROLE_IDS.PYTHON_SDK],
+  },
+  {
     github: 'joan-anthropic',
     discord: '1398403578892128437',
     memberOf: [ROLE_IDS.MCPB_MAINTAINERS],
@@ -584,6 +596,10 @@ export const MEMBERS: readonly Member[] = [
     github: 'koic',
     discord: '880937364208361483',
     memberOf: [ROLE_IDS.MAINTAINERS, ROLE_IDS.RUBY_SDK, ROLE_IDS.SECURITY_TEAM],
+  },
+  {
+    github: 'kpavlov',
+    memberOf: [ROLE_IDS.KOTLIN_SDK],
   },
   {
     github: 'kurtisvg',
@@ -685,6 +701,10 @@ export const MEMBERS: readonly Member[] = [
     memberOf: [ROLE_IDS.MCPB_MAINTAINERS],
   },
   {
+    github: 'mattt',
+    memberOf: [ROLE_IDS.SWIFT_SDK],
+  },
+  {
     github: 'mattzcarey',
     discord: '224878268275359744',
     firstName: 'Matt',
@@ -722,6 +742,10 @@ export const MEMBERS: readonly Member[] = [
   {
     github: 'michaelneale',
     memberOf: [ROLE_IDS.RUST_SDK],
+  },
+  {
+    github: 'mikekistler',
+    memberOf: [ROLE_IDS.CSHARP_SDK],
   },
   {
     github: 'monikaicampbell',
@@ -927,6 +951,10 @@ export const MEMBERS: readonly Member[] = [
     firstName: 'Preeti',
     lastName: 'Dewani',
     memberOf: [ROLE_IDS.REGISTRY_COLLABORATORS],
+  },
+  {
+    github: 'pronskiy',
+    memberOf: [ROLE_IDS.PHP_SDK],
   },
   {
     github: 'pwwpche',
