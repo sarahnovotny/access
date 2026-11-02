@@ -509,6 +509,10 @@ export const MEMBERS: readonly Member[] = [
     memberOf: [ROLE_IDS.PYTHON_SDK],
   },
   {
+    github: 'jerome3o-anthropic',
+    memberOf: [ROLE_IDS.STEERING_COMMITTEE],
+  },
+  {
     github: 'joan-anthropic',
     discord: '1398403578892128437',
     memberOf: [ROLE_IDS.MCPB_MAINTAINERS],
